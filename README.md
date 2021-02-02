@@ -1,4 +1,6 @@
-### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is David but my friends call me Bobbins
+
+<h3> I'm a tech support guy by day and im slowly learning programming in my spare time. my main focus is Python on the Raspberry Pi and Micropython and Circuit python on the Raspberry Pi Pico
 
 <!--
 **evilbobbins/evilbobbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr>
+you can find me on socail media over on Instagram 
+<a href="https://www.instagram.com/evilbobbins/">Instagram :postbox:</a><br>
+</hr>
