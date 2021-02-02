@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-You can find me on socail media
+You can find me on social media
 
 <a href="https://www.instagram.com/evilbobbins/" title="Instagram"><img src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-android-app-icon-2.png" width="100" alt="Instagram" /></a> <a href="https://www.facebook.com/EvilbobbinsArmy" title="Facebook"><img src="https://www.freepnglogos.com/uploads/facebook-logo-design-1.png" width="100" alt="Facebook" /></a> <a href="https://twitter.com/evilbobbins" title="Twitter"><img src="https://www.freepnglogos.com/uploads/512x512-logo-png/512x512-logo-twitter-icon-smooth-app-iconset-ampeross-29.png" width="100" alt="twitter" /></a>
 </hr>
